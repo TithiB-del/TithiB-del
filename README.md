@@ -32,7 +32,7 @@ currently typing in the template coz I have an underdeveloped profile-may update
 ![tropht stats](https://github-profile-trophy.vercel.app/?username=TithiB-del)
 
 ### Socials & their links:
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)-(https://www.hackerrank.com/contacttithi)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)-(https://www.twitter.com/tithibose7)
+![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
