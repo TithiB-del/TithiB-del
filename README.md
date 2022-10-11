@@ -14,6 +14,9 @@ currently typing in the template coz I have an underdeveloped profile-may update
 - ⚡ Fun fact: I love owls & am quite lazier than what I seem to be xD
 - Some things about my profile are listed below in the stats:
 
+### Just Flexing the Holopin Badge:
+[![@BridgesGap's Holopin board](https://holopin.io/api/user/board?user=BridgesGap)](https://holopin.io/@BridgesGap)
+
 ### Tech Stack & platforms :
 ![snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
