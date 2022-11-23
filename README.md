@@ -30,7 +30,7 @@ currently typing in the template coz I have an underdeveloped profile-may update
 ![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ### Statistics:
-![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TithiB-del)
+![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TithiB-del&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TithiB-del&show_icons=true&theme=merko)
 
 ### Socials & their links:
