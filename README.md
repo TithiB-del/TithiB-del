@@ -32,6 +32,7 @@ currently typing in the template coz I have an underdeveloped profile-may update
 ### Statistics:
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TithiB-del&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TithiB-del&show_icons=true&theme=merko)
+![tropht stats](https://github-profile-trophy.vercel.app/?username=TithiB-del)
 
 ### Socials & their links:
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
